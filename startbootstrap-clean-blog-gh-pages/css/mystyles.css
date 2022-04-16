@@ -1,0 +1,26 @@
+.Funny {
+    Font-style: Arial;
+    color: white
+}
+.Titles {
+    Color: rgb(18, 22, 147);
+    Font-Weight: Bold;
+    font-size: 2.25rem;
+    text-decoration: None;
+}
+.Subs{
+    color: rgb(160, 137, 9);
+    Font-Weight: Bold;
+    Text-decoration: underline;
+}
+
+.ListHeader{
+    font-size:20px;
+    Color:rgb(131, 21, 9);
+    font-weight:bold;
+}
+.ListSubs{
+    font-size:18px;
+    Color:rgb(5, 17, 146);
+    font-weight:bold;
+}

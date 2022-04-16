@@ -1,0 +1,92 @@
+.backitup{
+    background-color: rgb(106, 104, 104);
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
+.Header{
+    top:5px;
+    left:5px;
+    right:5px;
+    height:100px
+}
+
+.Mid{
+    position:relative;
+    left:300px;
+    top:20px;
+    color:white;
+    font-size:18px;
+    font-weight:bold;
+    
+}
+ .Mid2{
+    position:relative;
+    left:300px;
+    top:100px;
+    color:white;
+    font-size:18px;
+    font-weight:bold;
+ }
+
+.Mid3{
+    position:relative;
+    left:300px;
+    top:200px;
+    color:white;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.Mid4{
+    position:relative;
+    left:300px;
+    top:300px;
+    color:white;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.Mid5{
+    position:relative;
+    left:50px;
+    bottom:58px;
+    color:black;
+    font-size:18px;
+    font-weight:bold;
+}
+.Mid6{
+    position:relative;
+    left:1200px;
+    bottom:95px;
+    color:black;
+    font-size:18px;
+    font-weight:bold;
+}
+.Mid7{
+    position:relative;
+    left:1250px;
+    bottom:95px;
+    color:black;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.Mid8{
+    position:relative;
+     left:1300px;
+    bottom:95px;
+    color:black;
+    font-size:18px;
+    font-weight:bold;
+}
+.Titla{
+    text-align:Center;
+    font-size:30px;
+    color:black;
+    background-color:white;
+}
+.SubTitla{
+    font-size:20px;
+    top:5px;
+}
